@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
+import 'bootstrap/dist/css/bootstrap.css';
 import '@formio/js/dist/formio.full.min.css';
 import dynamic from 'next/dynamic'
 
